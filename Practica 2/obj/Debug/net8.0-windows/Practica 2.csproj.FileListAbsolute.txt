@@ -1,0 +1,17 @@
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\bin\Debug\net8.0-windows\Practica 2.exe
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\bin\Debug\net8.0-windows\Practica 2.deps.json
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\bin\Debug\net8.0-windows\Practica 2.runtimeconfig.json
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\bin\Debug\net8.0-windows\Practica 2.dll
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\bin\Debug\net8.0-windows\Practica 2.pdb
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica_2.gif_animado.resources
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica_2.Properties.Resources.resources
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica 2.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica 2.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica 2.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica 2.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica 2.dll
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\refint\Practica 2.dll
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica 2.pdb
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\Practica 2.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\PracticasVisual\Practica 2\obj\Debug\net8.0-windows\ref\Practica 2.dll
